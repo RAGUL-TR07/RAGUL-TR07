@@ -16,7 +16,7 @@
 <table align="center"> <tr> <th>💻 Languages</th> <th>🌐 Frontend</th> <th>⚙️ Backend</th> <th>🔌 Embedded</th> <th>🛠️ Tools</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=c" /><br><br> <img src="https://skillicons.dev/icons?i=cpp" /><br><br> <img src="https://skillicons.dev/icons?i=java" /><br><br> <img src="https://skillicons.dev/icons?i=python" /><br><br> <img src="https://skillicons.dev/icons?i=js" /> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=html" /><br><br> <img src="https://skillicons.dev/icons?i=css" /><br><br> <img src="https://skillicons.dev/icons?i=react" /><br><br> <img src="https://skillicons.dev/icons?i=tailwind" /> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs" /><br><br> <img src="https://skillicons.dev/icons?i=express" /><br><br> <img src="https://skillicons.dev/icons?i=fastapi" /> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=arduino" /><br><br> <b>Embedded Systems</b><br> <b>PCB Design</b><br> <b>Circuit Design</b> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=git" /><br><br> <img src="https://skillicons.dev/icons?i=github" /><br><br> <img src="https://skillicons.dev/icons?i=vscode" /><br><br> <img src="https://skillicons.dev/icons?i=mongodb" /><br><br> <img src="https://skillicons.dev/icons?i=mysql" /> </td> </tr> </table>
  ## 🛰️ Transmission Channels
 <p align="center">
-  <a href="mailto:ragultr07@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=ragultr07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Gmail" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
