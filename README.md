@@ -7,14 +7,23 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Embedded+Systems+Enthusiast;Building+Scalable+Systems" />
 </p>
-## ⚡System Overview
+<h2 align="left">⚡ System Overview</h2>
 
 | 👤 Who I Am | ⚙️ What I’m Doing | 🚀 Goal |
 |------------|-----------------|---------|
 | 🎓 ECE Student <br><br> 💻 Full Stack Developer <br><br> 🔧 Hardware + Software Enthusiast <br><br> 🧠 Strong in problem solving & logic | 🛠️ Building production-level web apps <br><br> 🔌 Exploring Embedded Systems & PCB <br><br> 📚 Practicing DSA consistently <br><br> 🔥 Working on impactful projects | 🎯 Crack product-based company roles <br><br> ⚡ Build scalable & efficient systems <br><br> 🌍 Solve real-world problems with tech <br><br> 📈 Grow in System Design & Core ECE |
 ## 🧠 Technical Arsenal
 <table align="center"> <tr> <th>💻 Languages</th> <th>🌐 Frontend</th> <th>⚙️ Backend</th> <th>🔌 Embedded</th> <th>🛠️ Tools</th> </tr> <tr> <td align="center"> <img src="https://skillicons.dev/icons?i=c" /><br><br> <img src="https://skillicons.dev/icons?i=cpp" /><br><br> <img src="https://skillicons.dev/icons?i=java" /><br><br> <img src="https://skillicons.dev/icons?i=python" /><br><br> <img src="https://skillicons.dev/icons?i=js" /> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=html" /><br><br> <img src="https://skillicons.dev/icons?i=css" /><br><br> <img src="https://skillicons.dev/icons?i=react" /><br><br> <img src="https://skillicons.dev/icons?i=tailwind" /> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=nodejs" /><br><br> <img src="https://skillicons.dev/icons?i=express" /><br><br> <img src="https://skillicons.dev/icons?i=fastapi" /> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=arduino" /><br><br> <b>Embedded Systems</b><br> <b>PCB Design</b><br> <b>Circuit Design</b> </td> <td align="center"> <img src="https://skillicons.dev/icons?i=git" /><br><br> <img src="https://skillicons.dev/icons?i=github" /><br><br> <img src="https://skillicons.dev/icons?i=vscode" /><br><br> <img src="https://skillicons.dev/icons?i=mongodb" /><br><br> <img src="https://skillicons.dev/icons?i=mysql" /> </td> </tr> </table>
- ## 🛰️ Transmission Channels
+<h2 align="left">📊 System Telemetry</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAGUL-TR07&theme=react-dark&bg_color=000000&color=00d4ff&line=00d4ff&point=ffffff&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAGUL-TR07/RAGUL-TR07/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+<h2 align="left">🛰️ Transmission Channels</h2>
 <p align="center">
   <a href="https://mail.google.com/mail/?view=cm&to=ragultr07@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Gmail" />
